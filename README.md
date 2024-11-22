@@ -31,4 +31,3 @@ Analyze the visual graphs to gain insights into sales performance and trends.
 Contribution
 Contributions to enhance the dashboard's features and functionality are welcome. Feel free to fork this repository and submit pull requests.
 
-LicenseAlpha Store Sales Analysis
